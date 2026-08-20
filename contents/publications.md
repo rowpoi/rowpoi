@@ -1,7 +1,7 @@
-#### Submitted
+#### Awards
 
 The following presents the awards received by our team
 
-#### Published
+#### Presents
 
 The following presents the papers of our team
