@@ -2,15 +2,13 @@
 
 
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+这是一支来至玉林师范学院的团队，主要成员来至于其中的在校学生，指导教师也多是在校教职工。
 
-#### Contact
+#### 目标
 
-Email: user[at]fas.harvard.edu
+通过开展志愿活动去让适龄儿童在阅读，社会活动及美育等方面得到更好的发展
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+
+、
+
