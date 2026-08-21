@@ -1,5 +1,5 @@
 title: 鬰见美好阅读团队|书香越过山峦
-page-top-title: 鬰见美好阅读团队
+page-top-title: 鬰见美好
 top-section-bg-text: 书香越过山峦
 backgrounds:
   - static/assets/background/background_0.jpeg
@@ -10,7 +10,7 @@ copyright-text:  Encountering beauty team 2026 All Rights Reserved.'
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: 鬰见美好&ensp;|&ensp;阅读团队
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
